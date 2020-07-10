@@ -1,4 +1,4 @@
-# Team Cryptic - Spartan Rentals
+# Spartan Rentals
 
 ### Project deliverable documents -
 - [Sprint Task Sheet](https://github.com/gopinathsjsu/sp20-cmpe-202-sec-03-team-project-cryptic/blob/master/ProjectDeliverableDocuments/SprintSheetTeamCryptic.pdf)
