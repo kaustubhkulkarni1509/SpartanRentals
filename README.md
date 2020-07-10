@@ -18,8 +18,4 @@
 ### Deployment Diagram -
 ![Project Deployment Diagram](/ProjectDeliverableDocuments/deploymentDiagram.png "Project Deployment Diagram")
 
-### Team Members -
-- Samik Biswas (014500889)
-- Kaustubh Kulkarni (014512706)
-- Siddhant Sribhashyam (013705601)
-- Kartik Umalkar (014486823)
+
