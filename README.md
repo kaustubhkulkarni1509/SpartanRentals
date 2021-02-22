@@ -13,9 +13,9 @@
 - AWS
 
 ### Architecture Diagram -
-![Project Architecture Diagram](/ProjectDeliverableDocuments/CloudArchitectureDiagram.png "Project Architecture Diagram")
+![Project Architecture Diagram](https://github.com/kaustubhkulkarni1509/SpartanRentals/blob/master/ProjectDocuments/CloudArchitectureDiagram.png)
 
 ### Deployment Diagram -
-![Project Deployment Diagram](/ProjectDeliverableDocuments/deploymentDiagram.png "Project Deployment Diagram")
+![Project Deployment Diagram](https://github.com/kaustubhkulkarni1509/SpartanRentals/blob/master/ProjectDocuments/deploymentDiagram.png)
 
 
